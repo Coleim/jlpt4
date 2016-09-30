@@ -1351,214 +1351,220 @@ KUN:
 さんじゅう
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
+ID: 4.093
+Kanji: 主
+Radical: 亠
+Traits: 5画
+Hiragana: ??
+Romanji: ??
+Traduction principale: seigneur
+Traduction secondaire: maître, mari, principal
+ON:
+シュ
+ス
+KUN:
+ぬし
+おも
+あるじ
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+ID: 4.094
+Kanji: 乗
+Radical: 丿
+Traits: 9画
+Hiragana: ??
+Romanji: ??
+Traduction principale: monter (dans un véhicule)
+Traduction secondaire: embarquer
+ON:
+ジョウ
+KUN:
+の.る
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+ID: 4.095
+Kanji: 事
+Radical: 亅
+Traits: 8画
+Hiragana: ??
+Romanji: ??
+Traduction principale: chose, 
+Traduction secondaire: un fait, chose abstraite, affaire
+ON:
+ジ
+KUN:
+こと
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+ID: 4.096
+Kanji: 仕
+Radical: 人
+Traits: 5画
+Hiragana: ??
+Romanji: ??
+Traduction principale: faire
+Traduction secondaire: servir
+ON:
+シ
+KUN:
+つか.える
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+ID: 4.097
+Kanji: 代
+Radical: 人
+Traits: 5画
+Hiragana: ??
+Romanji: ??
+Traduction principale: génération
+Traduction secondaire: période, substitution, prix
+ON:
+ダイ
+タイ
+KUN:
+かわ.り
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+ID: 4.098
+Kanji: 住
+Radical: 人
+Traits: 7画
+Hiragana: ??
+Romanji: ??
+Traduction principale: résider
+Traduction secondaire: habiter
+ON:
+ヂュウ
+KUN:
+す.む
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+ID: 4.099
+Kanji: 使
+Radical: 人
+Traits: 8画
+Hiragana: ??
+Romanji: ??
+Traduction principale: utiliser
 Traduction secondaire: 
 ON:
-
+シ
+KUN:
+つか.う
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+ID: 4.100
+Kanji: 写
+Radical: 冖
+Traits: 5画
+Hiragana: ??
+Romanji: ??
+Traduction principale: copier
+Traduction secondaire: reproduire
+ON:
+シャ
+KUN:
+うつ.す
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+ID: 4.101
+Kanji: 勉
+Radical: 丿
+Traits: 10画
+Hiragana: ??
+Romanji: ??
+Traduction principale: exercice
+Traduction secondaire: travail
+ON:
+ベン
+KUN:
+つと.める
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+ID: 4.102
+Kanji: 動
+Radical: 力
+Traits: 11画
+Hiragana: ??
+Romanji: ??
+Traduction principale: bouger
+Traduction secondaire: se déplacer, mouvement
+ON:
+ドウ
+KUN:
+うご.く
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+ID: 4.103
+Kanji: 区
+Radical: 匚
+Traits: 4画
+Hiragana: く
+Romanji: ku
+Traduction principale: arrondissement
+Traduction secondaire: district
+ON:
+ク
 KUN:
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
+ID: 4.104
+Kanji: 医
+Radical: 匚
+Traits: 7画
+Hiragana: ??
+Romanji: ??
+Traduction principale: médecin
+Traduction secondaire: médecine
 ON:
-
+イ
 KUN:
-
+い.やす
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
+ID: 4.105
+Kanji: 去
+Radical: 土
+Traits: 5画
+Hiragana: ??
+Romanji: ??
+Traduction principale: passé
+Traduction secondaire: quitter
 ON:
-
+キョ
+コ
 KUN:
-
+さ.る
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
+ID: 4.106
+Kanji: 味
+Radical: 口
+Traits: 8画
+Hiragana: あじ
+Romanji: aji
+Traduction principale: saveur
+Traduction secondaire: goût, apprécier la saveur de
 ON:
-
+ミ
 KUN:
-
+あじ
+あじ.わう
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
+ID: 4.107
+Kanji: 品
+Radical: 口
+Traits: 9画
+Hiragana: ??
+Romanji: ??
+Traduction principale: marchandise
+Traduction secondaire: article, compteur de plats
 ON:
-
+ヒン
 KUN:
-
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
-ON:
-
-KUN:
-
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
-ON:
-
-KUN:
-
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
-ON:
-
-KUN:
-
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
-ON:
-
-KUN:
-
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
-ON:
-
-KUN:
-
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
-ON:
-
-KUN:
-
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
-ON:
-
-KUN:
-
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
-ON:
-
-KUN:
-
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
-ON:
-
-KUN:
-
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.XXX
-Kanji: 
-Radical: 
-Traits: 画
-Hiragana: 
-Romanji: 
-Traduction principale: 
-Traduction secondaire: 
-ON:
-
-KUN:
-
+しな
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 ID: 4.XXX
